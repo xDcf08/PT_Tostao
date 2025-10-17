@@ -48,7 +48,7 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 
 1. Clonar el Repositorio
 
-git clone https://github.com/xDcf08/PT_Tostao
+git clone https://github.com/xDcf08/PT_Tostao.git
 
 cd PT_Tostao
 
@@ -133,4 +133,5 @@ Para correr el proyecto completo, necesitarás tres terminales abiertas, una par
     npm run dev
 
     URL: La interfaz de usuario estará disponible en http://localhost:5173. Abre esta URL en tu navegador para usar la aplicación.
+
 
