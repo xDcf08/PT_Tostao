@@ -1,0 +1,62 @@
+# ===================================================================
+# Archivos Generales y del Sistema Operativo
+# ===================================================================
+.DS_Store
+Thumbs.db
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===================================================================
+# Reglas para .NET (Proyecto: PruebaTostao)
+# ===================================================================
+# Carpetas de compilación y temporales
+[Bb]in/
+[Oo]bj/
+
+# Archivos de secretos (nunca deben subirse al repositorio)
+appsettings.Development.json
+secrets.json
+
+# ===================================================================
+# Reglas para Laravel / PHP (Proyecto: GestionDocumental.Notifier)
+# ===================================================================
+# Dependencias de Composer
+/GestionDocumental.Notifier/vendor/
+
+# Archivo de entorno con credenciales sensibles
+/GestionDocumental.Notifier/.env
+
+# Archivos de log y almacenamiento de Laravel
+/GestionDocumental.Notifier/storage/*.key
+/GestionDocumental.Notifier/storage/framework/sessions/*
+/GestionDocumental.Notifier/storage/framework/cache/data/*
+/GestionDocumental.Notifier/storage/logs/*.log
+!/GestionDocumental.Notifier/storage/.gitignore
+
+# Resultados de pruebas de PHPUnit
+/GestionDocumental.Notifier/coverage/
+
+# ===================================================================
+# Reglas para React / Node.js (Proyecto: GestionDocumental-UI)
+# ===================================================================
+# Dependencias de Node
+/GestionDocumental-UI/node_modules/
+
+# Carpeta de compilación
+/GestionDocumental-UI/dist/
+/GestionDocumental-UI/build/
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno locales
+/GestionDocumental-UI/.env.local
+/GestionDocumental-UI/.env.*.local

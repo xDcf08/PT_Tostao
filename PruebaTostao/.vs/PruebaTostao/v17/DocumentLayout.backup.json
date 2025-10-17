@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\backgroundservices\\archiveolddocumentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\backgroundservices\\archiveolddocumentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\entities\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\entities\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\database\\configuration\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\database\\configuration\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\services\\documents\\documentserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\services\\documents\\documentserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\repository\\documentrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\repository\\documentrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\services\\documents\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\services\\documents\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\repository\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\repository\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\dtos\\createdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\dtos\\createdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\dtos\\updatedocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\dtos\\updatedocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\entities\\documententity\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\entities\\documententity\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\dtos\\getdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\dtos\\getdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|d:\\pruebatecnica\\tostao\\pruebatostao\\pruebatostao\\entities\\abstractions\\errors\\documenterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91388535-97F8-457F-BCE4-50D8009E3CCE}|PruebaTostao\\PruebaTostao.csproj|solutionrelative:pruebatostao\\entities\\abstractions\\errors\\documenterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Entities\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "PruebaTostao\\Entities\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:57:20.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchiveOldDocumentsService.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\BackgroundServices\\ArchiveOldDocumentsService.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\BackgroundServices\\ArchiveOldDocumentsService.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\BackgroundServices\\ArchiveOldDocumentsService.cs",
+              "RelativeToolTip": "PruebaTostao\\BackgroundServices\\ArchiveOldDocumentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:50:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaTostao\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:34:43.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentConfiguration.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Database\\Configuration\\DocumentConfiguration.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Database\\Configuration\\DocumentConfiguration.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Database\\Configuration\\DocumentConfiguration.cs",
+              "RelativeToolTip": "PruebaTostao\\Database\\Configuration\\DocumentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:55:35.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PruebaTostao\\appsettings.Development.json",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\appsettings.Development.json",
+              "RelativeToolTip": "PruebaTostao\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T03:22:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "PruebaTostao\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:15:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "PruebaTostao\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:13:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Program.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Program.cs",
+              "RelativeToolTip": "PruebaTostao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:50:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Controllers\\DocumentsController.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "PruebaTostao\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:48:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDocumentDTO.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\UpdateDocumentDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\DTOs\\UpdateDocumentDTO.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\UpdateDocumentDTO.cs",
+              "RelativeToolTip": "PruebaTostao\\DTOs\\UpdateDocumentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:32:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentServiceImp.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Services\\Documents\\DocumentServiceImp.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Services\\Documents\\DocumentServiceImp.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Services\\Documents\\DocumentServiceImp.cs",
+              "RelativeToolTip": "PruebaTostao\\Services\\Documents\\DocumentServiceImp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:08:21.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentRepositoryImp.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Repository\\DocumentRepositoryImp.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Repository\\DocumentRepositoryImp.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Repository\\DocumentRepositoryImp.cs",
+              "RelativeToolTip": "PruebaTostao\\Repository\\DocumentRepositoryImp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:27:28.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Exceptions\\ValidationError.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Exceptions\\ValidationError.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Exceptions\\ValidationError.cs",
+              "RelativeToolTip": "PruebaTostao\\Exceptions\\ValidationError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:15:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTostao\\appsettings.json",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\appsettings.json",
+              "RelativeToolTip": "PruebaTostao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T03:22:06.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Repository\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Repository\\IDocumentRepository.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Repository\\IDocumentRepository.cs",
+              "RelativeToolTip": "PruebaTostao\\Repository\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:27:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Services\\Documents\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Services\\Documents\\IDocumentService.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Services\\Documents\\IDocumentService.cs",
+              "RelativeToolTip": "PruebaTostao\\Services\\Documents\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:09:39.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\DocumentEntity\\Document.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Entities\\DocumentEntity\\Document.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\DocumentEntity\\Document.cs",
+              "RelativeToolTip": "PruebaTostao\\Entities\\DocumentEntity\\Document.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:08:51.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateDocumentDTO.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\CreateDocumentDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\DTOs\\CreateDocumentDTO.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\CreateDocumentDTO.cs",
+              "RelativeToolTip": "PruebaTostao\\DTOs\\CreateDocumentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:08:41.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetDocumentDTO.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\GetDocumentDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\DTOs\\GetDocumentDTO.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\DTOs\\GetDocumentDTO.cs",
+              "RelativeToolTip": "PruebaTostao\\DTOs\\GetDocumentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:24:46.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DocumentError.cs",
+              "DocumentMoniker": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\Abstractions\\Errors\\DocumentError.cs",
+              "RelativeDocumentMoniker": "PruebaTostao\\Entities\\Abstractions\\Errors\\DocumentError.cs",
+              "ToolTip": "D:\\PruebaTecnica\\Tostao\\PruebaTostao\\PruebaTostao\\Entities\\Abstractions\\Errors\\DocumentError.cs",
+              "RelativeToolTip": "PruebaTostao\\Entities\\Abstractions\\Errors\\DocumentError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:23:23.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
