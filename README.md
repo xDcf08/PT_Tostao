@@ -48,8 +48,9 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 
 1. Clonar el Repositorio
 
-git clone https://URL_DE_TU_REPOSITORIO.git
-cd Tostao
+git clone https://github.com/xDcf08/PT_Tostao
+
+cd PT_Tostao
 
 2. Configuración de la Base de Datos
 
@@ -132,3 +133,4 @@ Para correr el proyecto completo, necesitarás tres terminales abiertas, una par
     npm run dev
 
     URL: La interfaz de usuario estará disponible en http://localhost:5173. Abre esta URL en tu navegador para usar la aplicación.
+
